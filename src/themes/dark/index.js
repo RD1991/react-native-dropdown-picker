@@ -162,7 +162,7 @@ export default StyleSheet.create({
 
     },
     selectedItemContainer: {
-
+       backgroundColor: '#C4C4C4'
     },
     selectedItemLabel: {
 
