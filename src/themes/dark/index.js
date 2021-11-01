@@ -74,10 +74,10 @@ export default StyleSheet.create({
     },
     dropDownContainer: {
         position: 'absolute',
-        backgroundColor: Colors.EBONY_CLAY,
-        borderRadius: 8,
+        backgroundColor: Colors.WHITE,
+        borderRadius: 0,
         borderColor: Colors.BLACK,
-        borderWidth: 1,
+        borderWidth: 0,
         width: '100%',
         overflow: 'hidden',
         zIndex: 1000
