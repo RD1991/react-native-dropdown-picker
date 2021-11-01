@@ -75,7 +75,7 @@ export default StyleSheet.create({
     dropDownContainer: {
         position: 'absolute',
         backgroundColor: Colors.WHITE,
-        borderRadius: 0,
+        borderRadius: 5,
         borderColor: Colors.BLACK,
         borderWidth: 0,
         width: '100%',
